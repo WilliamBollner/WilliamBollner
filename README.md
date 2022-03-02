@@ -1,4 +1,4 @@
-##Olá! Eu sou o William Bollner 👋
+#Olá! Eu sou o William Bollner 👋
 
 - 🔭 Atualmente trabalho com suporte técnico.
 - 🌱 Estou estudando Java assim como os frameworks Hibernate e SpringBoot.
@@ -28,6 +28,7 @@
 
 </div>
 <br>
+
 - Banco de dados
  
  <div style="display: inline_block">
@@ -38,6 +39,7 @@
 
 </div>
 <br>
+
 - Frameworks
 
 <div style="display: inline_block">
