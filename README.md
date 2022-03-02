@@ -5,7 +5,7 @@
 - ⭐ Conhecimentos básicos em HTML e CSS.
 - 💬 Contate-me por email: williambollner@hotmail.com ou WhatsApp: 47-992779286.
 
-<div align="right">
+<div>
     <a href="https://github.com/WilliamBollner">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=WilliamBollner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -14,7 +14,7 @@
     </a>
 </div>
 
- - Linguagens
+- Linguagens
  
 <div style="display: inline_block">
     <img align="center" alt="logo Java" height="30" width="40"
@@ -25,24 +25,25 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
     <img align="center" alt="logo spring" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <br>
+
 </div>
- - Banco de dados
+<br>
+- Banco de dados
  
  <div style="display: inline_block">
     <img align="center" alt="logo postgres" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
     <img align="center" alt="logo mysql" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <br>
-</div>
 
- - Frameworks
+</div>
+<br>
+- Frameworks
 
 <div style="display: inline_block">
     <img align="center" alt="logo spring" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     <img align="center" alt"logo Angular" height="30" width="40" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-    <br>
+ 
 </div> 
