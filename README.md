@@ -1,13 +1,11 @@
 ##Olá! Eu sou o William Bollner 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-WilliamBollner-6633cc?-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-bollner-4416312b)](https://www.linkedin.com/in/william-bollner-4416312b) 
-[![Instagram Badge](https://img.shields.io/badge/-William_Bollner-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jucabnu/)](https://www.instagram.com/jucabnu/) 
-[![Hotmail Badge](https://img.shields.io/badge/-williambollner@hotmail.com-6633cc?style=flat-square&logo=Outlook&logoColor=white&link=mailto:williambollner@hotmail.com)](mailto:williambollner@hotmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-William_Bollner-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/william_bollner/)](https://www.instagram.com/jucabnu/) 
+[![Hotmail Badge](https://img.shields.io/badge/-williambollner@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:williambollner@hotmail.com)](mailto:williambollner@hotmail.com)
 
 - 👨‍💻 &nbsp; Trabalhando na [Tron Informática](https://tron-orc.com.br/) atuando como Suporte.
 - 📖 &nbsp; Estudando no programa [+Devs2Blu](https://devs2blu.com.br/)
-
-
 
 <div>
     <a href="https://github.com/WilliamBollner">
