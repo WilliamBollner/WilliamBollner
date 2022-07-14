@@ -4,8 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-William_Bollner-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/william_bollner/)](https://www.instagram.com/jucabnu/) 
 [![Hotmail Badge](https://img.shields.io/badge/-williambollner@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:williambollner@hotmail.com)](mailto:williambollner@hotmail.com)
 
-- 👨‍💻 &nbsp; Trabalhando na [Tron Informática](https://tron-orc.com.br/) atuando como Suporte.
-- 📖 &nbsp; Estudando no programa [+Devs2Blu](https://devs2blu.com.br/)
+- 👨‍💻 &nbsp; Trabalhando na [T-Systems](https://www.t-systems.com/br/pt) atuando como Programador I.
+- 📖 &nbsp; Cursando Sistemas de Informação [FURB](https://www.furb.br/pt)
 
 <div>
     <a href="https://github.com/WilliamBollner">
