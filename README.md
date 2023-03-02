@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-William_Bollner-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/william_bollner/)](https://www.instagram.com/jucabnu/) 
 [![Hotmail Badge](https://img.shields.io/badge/-williambollner@hotmail.com-6633cc?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:williambollner@hotmail.com)](mailto:williambollner@hotmail.com)
 
-- 👨‍💻 &nbsp; Trabalhando na [T-Systems](https://www.t-systems.com/br/pt) atuando como Programador I.
+- 👨‍💻 &nbsp; Trabalhando na [T-Systems](https://www.t-systems.com/br/pt) atuando como Desenvolvedor Salesforce.
 - 📖 &nbsp; Cursando Sistemas de Informação na [FURB](https://www.furb.br/pt)
 
 <div>
